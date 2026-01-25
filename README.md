@@ -3,9 +3,8 @@
 
 # 👋 Hey, I'm Keith
 
-🎓 Software Engineering Student | 💻 Aspiring Back-End Developer  
-🚀 Currently sharpening my skills in **Java, Python, and Linux**  
-🌱 Learning Back-End Engineering at **ALX Africa**  
+🎓 Software Engineering Student | 💻 Junior Back-End Developer  
+🚀 Currently sharpening my skills in **Python and Linux**    
 
 ---
 
@@ -33,15 +32,18 @@
 
 ### 🔹 Console Applications
 - **Bank Manager** – CLI app (Java/Python) with full CRUD operations.  
-- **Student Manager** – Java app using nested HashMaps for student data.  
+- **Student Manager** – Java app using nested HashMaps for student data.
+- **Backend Rental System - A rental system django app & APIs.
 
 ### 🔹 Linux & Automation
 - **Personal Vault** – Linux-based vault for secure personal storage.  
 - **n8n Automation (Docker)** – Beginner-friendly setup of n8n with Docker.  
 
 ### 🔹 Learning Projects
+<!--
 - **Freelancing Knowledge Hub** – Python scraper to build a library of freelancing resources.  
 - **Linux Terminal Enhancer** – Bash scripts for colorful, interactive terminal UX.  
+-->
 
 > 📸 Each repo includes setup instructions & documentation.  
 
