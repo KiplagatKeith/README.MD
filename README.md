@@ -1,6 +1,8 @@
-<!-- Animated Typing Banner -->
+<!--
+<!-- Animated Typing Banner 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&lines=Continuous+Learner)](https://git.io/typing-svg)
-
+-->
+<!--
 # 👋 Hey, I'm Keith
 
 🎓 Software Engineering Student | 💻 Junior Back-End Developer  
@@ -19,8 +21,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
+<!--
 ![n8n](https://img.shields.io/badge/n8n-1E90FF?style=for-the-badge&logo=n8n&logoColor=white)
-
+-->
+<!--
 ### Interests
 - Back-End Engineering  
 - AI & Automation  
@@ -40,10 +44,12 @@
 - **n8n Automation (Docker)** – Beginner-friendly setup of n8n with Docker.  
 
 ### 🔹 Learning Projects
+-->
 <!--
 - **Freelancing Knowledge Hub** – Python scraper to build a library of freelancing resources.  
 - **Linux Terminal Enhancer** – Bash scripts for colorful, interactive terminal UX.  
 -->
+<!--
 
 > 📸 Each repo includes setup instructions & documentation.  
 
@@ -64,3 +70,4 @@
 ---
 
 ⭐️ *I’m building projects, learning daily, and contributing where I can. My goal: become a back-end engineer who solves real-world problems through clean code and smart systems.*
+-->
