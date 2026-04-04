@@ -64,7 +64,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiplagatKeith&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=KiplagatKeith&theme=radical&border_radius=5)  
 
+## 📊 GitHub Stats  
 
+![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiplagatKeith&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiplagatKeith&layout=compact&theme=radical)  
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.dem
 
 ## 🌍 Let’s Connect  
 
