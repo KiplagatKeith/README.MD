@@ -71,3 +71,17 @@
 
 ⭐️ *I’m building projects, learning daily, and contributing where I can. My goal: become a back-end engineer who solves real-world problems through clean code and smart systems.*
 
+
+
+
+<h3 align="center">Backend Engineer | System Designer & Architect | Software Engineering Student</h3>
+
+<p align="center">
+  Python • Django • SQL • AI Development
+  <br>
+  <strong>FAFO</strong>
+</p>
+
+<p align="center">
+  Building efficient systems, solving real-world problems & creating positive impact.
+</p>
