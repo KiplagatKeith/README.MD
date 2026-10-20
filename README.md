@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&lines=Continuous+Learner)](https://git.io/typing-svg)
 -->
 
-# 👋 Hey, KEITH Here 
+# 👋 HEY, KEITH HERE 
 
 <h3 align="center">Backend Engineer | System Designer & Architect | Software Engineering Student</h3>
 
