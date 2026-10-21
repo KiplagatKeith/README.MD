@@ -93,12 +93,12 @@ I want my projects to demonstrate more than just a working interface. My goal is
 
 ## 🌱 What I'm Working Toward
 
+- Solving real world problems with software technology
 - Deepening my Python and Django backend engineering skills
 - Getting better at PostgreSQL, SQL, and database design
 - Understanding Linux, shell scripting, and system internals
 - Practicing data structures and algorithms
 - Building useful software and improving existing projects
-- Preparing for backend engineering internships and junior engineering opportunities
 
 ## 🌍 Let's Connect
 
